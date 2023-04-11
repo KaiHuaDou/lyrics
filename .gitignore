@@ -1,4 +1,8 @@
+# Musics
 *.mp3
 *.flac
 *.m4a
 *.mid
+
+# Lyrics in Editing
+*.edit
