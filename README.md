@@ -29,12 +29,15 @@
 
 ### 已翻译
 
-+ 国际歌
 + 謡I - Making of Cyborg
 + Sis puella magica
 
 ### 翻译中
 
++ Abnormalize
+    + 问题高度严重
+    + 日文和歌词完全配补上
+    + 许多英文和日文的拼写都是错误的
 + Rise
 
 ### 已计划
@@ -44,7 +47,6 @@
 + 晴天好心情
 + 停下吧
 + 自我认同崩坏中
-+ Abnormalize
 + Fatima
 + Hyadain的单单单☆单相思-C
 + I believe what you said
