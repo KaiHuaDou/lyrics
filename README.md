@@ -25,6 +25,7 @@
 
 + 残酷天使的行动纲领
 + 是冒险对吧对吧
++ Abnormalize
 + Hacking to the Gate
 
 ### 已翻译
@@ -34,10 +35,7 @@
 
 ### 翻译中
 
-+ Abnormalize
-    + 问题高度严重
-    + 日文和歌词完全配补上
-    + 许多英文和日文的拼写都是错误的
++ I believe what you said
 + Rise
 
 ### 已计划
@@ -49,7 +47,6 @@
 + 自我认同崩坏中
 + Fatima
 + Hyadain的单单单☆单相思-C
-+ I believe what you said
 + Inner Universe
 + Last Game
 + Magia
