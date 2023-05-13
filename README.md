@@ -32,22 +32,25 @@
 
 ### 已完成
 
-+ 残酷天使的行动纲领
 + 奈落之花
-+ 是冒险对吧对吧？
 + Abnormalize
 + Hacking to the Gate
++ Only My Railgun
 
 ### 已翻译
 
++ 是冒险对吧对吧？
 + 謡I - Making of Cyborg
 + I believe what you said
++ Last Game
 + Sis puella magica
 
 ### 翻译中
 
 + 自我认同崩坏中 (自我同一性崩坏中)
     + 此处更改曲名翻译
++ 残酷天使的行动纲领
++ Fatima
 + Rise
 
 ### 已计划
@@ -55,11 +58,8 @@
 + 来吧，甜蜜的死亡
 + 晴天好心情
 + 停下吧
-+ Fatima
 + Hyadain的单单单☆单相思-C
 + Inner Universe
-+ Last Game
 + LEVEL5 -Judgelight-
 + Magia
-+ Only My Railgun
 + Super Driver
