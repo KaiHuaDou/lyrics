@@ -1,83 +1,232 @@
 [ti:アイデン貞貞メルトダウン]
+[ti[zh]:自我认同崩坏中]
+[ti[zh][origin]:自我节操熔毁中]
 [ar:えなこ]
 [au:やしきん]
-[00:05.32]アリ? ナシ? ナシ? アリ?
+[00:05.32]アリ? ナシ！ナシ? アリ!
+[00:05.32]可以？不行！不行？可以！
+[00:05.32]ari nashi nashi ari
 [00:08.35]ついてる ついてない
-[00:09.59]あれどっち? どっち? trance trance trance
-[00:11.51]蟻? 梨? naシ? ァ理?
-[00:14.53]自我 字が 崩壊
+[00:08.35]带把还是不带
+[00:08.35]tui teru tui te nai
+[00:09.59]あれどっち？ どっち? trance trance trance
+// TODO: trance
+[00:09.59]是怎样？怎样？trance trance trance
+[00:09.59]are dotti dotti toransu toransu toransu
+[00:11.51]蟻? 梨！naシ? ァ理?
+[00:11.51]珂以？不刑！埠行？可蚁！
+[00:11.51]ari nasi nashi ari
+[00:14.53]自我 字が 崩壊!
+[00:14.53]自我 字卧 崩坏！
+[00:14.53]ziga ziga houkai
 [00:17.66]インドア警備隊 紫外線さよなら
-[00:20.79](バイバイ alright 一級在宅 allday)
+[00:17.66]自宅警备员 紫外线全都再见
+[00:17.66]indoa keibi tai sigaisen sayonara
+[00:20.79] (bye bye alright！一級在宅 allday！）
+[00:20.79] (bye bye alright！一级宅家 allday！）
+[00:20.79]baibai oraito ikkyuu zaitaku odei
 [00:23.84]やる気の"や"の字
+[00:23.84]干劲一词的"干"字
+[00:23.84]yaru ki no ya no zi
 [00:25.06]どっかにいっちゃったんだ
-[00:26.89](ナイナイ 心技体)
-[00:28.32](実家に帰ります)
+[00:25.06]
+[00:25.06]dokka ni ixtu tyaxtu ta n da
+[00:26.89]（ナイナイ 心技体）
+[00:26.89]
+[00:26.89]nainai singitai
+[00:28.32]（実家に帰ります）
+[00:28.32]
+[00:28.32]zikka ni kae ri masu
 [00:29.48]
 [00:29.99]ああ 未知なる世界と目があったよ
+[00:29.99]
+[00:29.99]aa miti naru sekai to me ga axtu ta yo
 [00:35.48]微笑んで 手招きしてるの
+[00:35.48]
+[00:35.48]hohoe n de temane ki si teru no
 [00:40.83]
 [00:42.22]ねえ こっちの水は
+[00:42.22]
+[00:42.22]nee kotti no mizu ha
 [00:45.76]スウィーツパラダイス
+[00:45.76]
+[00:45.76]suwhi-tu paradaisu
 [00:48.24]おしゃれ メイク ヘアアレンジ
+[00:48.24]
+[00:48.24]osyare meiku hea arenzi
 [00:51.45]乙女の園で ダンスした
+[00:51.45]
+[00:51.45]otome no en de dansu si ta
 [00:56.37]
-[00:57.27]あれ わたし(who) 誰(are) オレoleお? (it's me)
+[00:57.27]あれ わたし (who) 誰 (are) オレoleお？ (it's me)
+[00:57.27]
+[00:57.27]are watasi dare oreore o
 [01:00.84]知らない 何
+[01:00.84]
+[01:00.84]si ra nai nani
 [01:02.00]壊れそうな アイデン貞貞
+[01:02.00]
+[01:02.00]kowa re sou na aiden teitei
 [01:04.19]産まれたばかり a sense of wonder
+[01:04.19]
+[01:04.19]u mare ta bakari a sansi o wandaa
 [01:07.06]そのまま maybe 溶けてゆく 深層心理
+[01:07.06]
+[01:07.06]sonomama mebi to ke te yuku sinsou sinri
 [01:10.40]目覚め たまえ 眠れるアイツ
+[01:10.40]
+[01:10.40]meza me tamae nemu reru aitu
 [01:13.39]いくとこまで いってみようか
+[01:13.39]
+[01:13.39]iku toko made ixtu te miyo u ka
 [01:15.56]ハッピーエンド?
+[01:15.56]
+[01:15.56]happi-endo
 [01:16.49]アリ? ナシ? ナシ? アリ?
+[01:16.49]
+[01:16.49]ari nashi nashi ari
 [01:19.68]ついてる ついてない
+[01:19.68]
+[01:19.68]tui teru tui te nai
 [01:20.79]あれどっち? どっち? trance trance trance
+[01:20.79]
+[01:20.79]are dotti dotti toransu toransu toransu
 [01:22.75]蟻? 梨? naシ? ァ理?
+[01:22.75]
+[01:22.75]ari nashi nashi ari
 [01:25.85]自我 字が 崩壊
+[01:25.85]
+[01:25.85]ziga ziga houkai
 [01:28.96]おさんぽ調査団 瀕死でおかえり
-[01:32.10](ヘイヘイ fall down 三流散策 weekend)
+[01:28.96]
+[01:28.96]osanpo tyousa dan hinsi de okaeri
+[01:32.10]（ヘイヘイ fall down 三流散策 weekend)
+[01:32.10]
+[01:32.10]heihei fao daun sanryuu sansaku uxiikuendo
 [01:35.05]やる気を出した 結果が大変だった
-[01:38.18](累々 死屍die ファイト一発)
+[01:35.05]
+[01:35.05]yaru ki wo da si ta kekka ga taihen daxtu ta
+[01:38.18]（累々 死屍die ファイト一発）
+[01:38.18]
+[01:38.18]ruirui sisitei faito ippatsu
 [01:41.05]ああ マジカル
+[01:41.05]
+[01:41.05]aa mazikaru
 [01:43.59]ウルトラスーパーミラクル
+[01:43.59]
+[01:43.59]urutora su-pa- mirakuru
 [01:46.75]抱きしめて 慰めてくれよ
+[01:46.75]
+[01:46.75]ida kisime te nagusa me te kureyo
 [01:52.11]
 [01:53.41]ええ そんなの夢さ
+[01:53.41]
+[01:53.41]ee sonna no yume sa
 [01:57.00]ドリームワンダーランド
+[01:57.00]
+[01:57.00]dori-mu wanda-rando
 [01:59.46]地道 努力 コツコツ
+[01:59.46]
+[01:59.46]zimiti doryoku kotukotu
 [02:02.61]正論マンが パンチした
+[02:02.61]
+[02:02.61]seiron man ga panti si ta
 [02:07.55]
-[02:08.44]やれ右(uh) 右(hah) 左右(ワンツー)
+[02:08.44]やれ右 (uh) 右 (hah) 左右（ワンツー）
+[02:08.44]
+[02:08.44]yare migi migi hidarimigi (wantsu)
 [02:12.01]いらない 愛
+[02:12.01]
+[02:12.01]ira nai ai
 [02:13.17]つよがりな アイデン貞貞
+[02:13.17]
+[02:13.17]tuyogari na aiden teitei
 [02:15.42]素直になりなさい catch on fire
+[02:15.42]
+[02:15.42]sunao ni nari nasai kyatchi on faia
 [02:18.30]わがまま baby 解けてゆく 固定観念
+[02:18.30]
+[02:18.30]wagamama bebi to ke te yuku kotei kannen
 [02:21.57]ふるい たまえ 内なるケモノ
+[02:21.57]
+[02:21.57]hurui tamae uti naru kemono
 [02:24.63]自分自身を知るための 決闘だ
+[02:24.63]
+[02:24.63]zibun zisin wo si ru tame no kettou da
 [02:28.22]
-[02:40.11]白か黒かで決めた(オセロ)
-[02:43.18]0か100しかないの? (極論)
-[02:46.39]生きづらい俗世だね(娑婆ばい)
+[02:40.11]白か黒かで決めた（オセロ）
+[02:40.11]
+[02:40.11]siro ka guro ka de ki me ta (osero)
+[02:43.18]0か100しかないの?（極論）
+[02:43.18]
+[02:43.18]zero ka hyaku sika nai no (kyokuron)
+[02:46.39]生きづらい俗世だね（娑婆ばい）
+[02:46.39]
+[02:46.39]i ki zurai zokuse da ne (syaba bai)
 [02:49.56]神様 仏様 この私目にお導きを
+[02:49.56]
+[02:49.56]kamisama hotokesama kono watasime ni o mitibi ki wo
 [02:56.99]
-[02:57.95]それでいいのか(yes no)
+[02:57.95]それでいいのか (yes no)
+[02:57.95]
+[02:57.95]sore de ii no ka
 [02:59.82]アイデンティティよ 目を覚ませ
+[02:59.82]
+[02:59.82]aidenthithi yo me wo sa mase
 [03:03.23]知りたい I どこへ行く自意識
+[03:03.23]
+[03:03.23]si ri tai I doko he i ku ziisiki
 [03:06.43]ゆりかごゆられて どんぶらこっこ
+[03:06.43]
+[03:06.43]yurikago yurare te donburako kko
 [03:09.38]このまま 永眠 消えてゆく世界の
+[03:09.38]
+[03:09.38]konomama eimin ki e te yuku sekai no
 [03:12.64]端っこつかみ もがいた
+[03:12.64]
+[03:12.64]hasi kko tukami mogai ta
 [03:15.50]知らない 何
+[03:15.50]
+[03:15.50]si ra nai nani
 [03:16.69]壊れそうな アイデン貞貞
+[03:16.69]
+[03:16.69]kowa re sou na aiden teitei
 [03:18.84]産まれたばかり a sense of wonder
+[03:18.84]
+[03:18.84]u mare ta bakari a sansi o wandaa
 [03:21.68]そのまま maybe 溶けてゆく 深層心理
+[03:21.68]
+[03:21.68]sonomama mebi to ke te yuku sinsou sinri
 [03:25.01]目覚め たまえ 眠れるアイツ
+[03:25.01]
+[03:25.01]meza me tamae nemu reru aitu
 [03:28.09]自分自身を 知るための旅路
+[03:28.09]
+[03:28.09]zibun zisin wo si ru tame no tabizi
 [03:31.25]ひとりのようで
+[03:31.25]
+[03:31.25]hitori no you de
 [03:32.38]ひとりじゃなかった
-[03:34.36]観測上で成り立つ 存在x
+[03:32.38]
+[03:32.38]hitori zya nakaxtu ta
+[03:34.36]観測上で成り立つ 存在X
+[03:34.36]
+[03:34.36]kansoku zyou de na ri ta tu sonzai eikusi
 [03:39.08]研究対象です
+[03:39.08]
+[03:39.08]kenkyuu taisyou desu
 [03:40.53]アリ? ナシ? ナシ? アリ?
+[03:40.53]
+[03:40.53]ari nasi nasi ari
 [03:43.61]ついてる ついてない
+[03:43.61]
+[03:43.61]tui teru tui te nai
 [03:44.79]あれどっち? どっち? trance trance trance
+[03:44.79]
+[03:44.79]are dotti dotti toransu toransu toransu
 [03:46.79]蟻? 梨? naシ? ァ理?
+[03:46.79]
+[03:46.79]ari nashi nashi ari
 [03:49.82]自我 字が アイデン貞貞は崩壊中
+[03:49.82]
+[03:49.82]ziga ziga aiden teitei ha houkai tyuu
