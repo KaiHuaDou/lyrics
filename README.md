@@ -40,17 +40,17 @@
 
 ### 已翻译
 
-+ 謡I - Making of Cyborg
-+ I believe what you said
-+ Last Game
 + Sis puella magica
++ Last Game
++ I believe what you said
++ Fatima
++ 謡I - Making of Cyborg
++ 残酷天使的行动纲领
 
 ### 翻译中
 
 + 自我认同崩坏中（自我同一性崩坏中）
     + 此处更改曲名翻译
-+ 残酷天使的行动纲领
-+ Fatima
 + Rise
 
 ### 已计划

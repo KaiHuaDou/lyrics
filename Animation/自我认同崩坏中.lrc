@@ -1,6 +1,6 @@
 [ti:アイデン貞貞メルトダウン]
-[ti[zh]:自我认同崩坏中]
-[ti[zh][origin]:自我节操熔毁中]
+[ti[jh]:自我认同崩坏中]
+[ti[jh][origin]:自我节操熔毁中]
 [ar:えなこ]
 [au:やしきん]
 [00:05.32]アリ? ナシ！ナシ? アリ!
@@ -8,54 +8,56 @@
 [00:05.32]ari nashi nashi ari
 [00:08.35]ついてる ついてない
 [00:08.35]带把还是不带
-[00:08.35]tui teru tui te nai
+[00:08.35]tsu i teru tsu i te nai
 [00:09.59]あれどっち？ どっち? trance trance trance
-// TODO: trance
 [00:09.59]是怎样？怎样？trance trance trance
-[00:09.59]are dotti dotti toransu toransu toransu
+[00:09.59]are do tchi do tchi toransu toransu toransu
 [00:11.51]蟻? 梨！naシ? ァ理?
 [00:11.51]珂以？不刑！埠行？可蚁！
 [00:11.51]ari nasi nashi ari
 [00:14.53]自我 字が 崩壊!
 [00:14.53]自我 字卧 崩坏！
-[00:14.53]ziga ziga houkai
+[00:14.53]jiga jiga houkai
 [00:17.66]インドア警備隊 紫外線さよなら
 [00:17.66]自宅警备员 紫外线全都再见
-[00:17.66]indoa keibi tai sigaisen sayonara
+[00:17.66]indoa keibitai sigaisen sa yo na ra
 [00:20.79] (bye bye alright！一級在宅 allday！）
 [00:20.79] (bye bye alright！一级宅家 allday！）
-[00:20.79]baibai oraito ikkyuu zaitaku odei
+[00:20.79]baibai oraito ikkyuu jaitaku odei
 [00:23.84]やる気の"や"の字
-[00:23.84]干劲一词的"干"字
-[00:23.84]yaru ki no ya no zi
+[00:23.84]干劲的"干"字
+[00:23.84]yaru ki no ya no ji
 [00:25.06]どっかにいっちゃったんだ
-[00:25.06]
+[00:25.06]已飞到九霄云外
 [00:25.06]dokka ni ixtu tyaxtu ta n da
 [00:26.89]（ナイナイ 心技体）
-[00:26.89]
-[00:26.89]nainai singitai
+[00:26.89]没了 小老弟
+[00:26.89]nainai shingitai
 [00:28.32]（実家に帰ります）
-[00:28.32]
-[00:28.32]zikka ni kae ri masu
-[00:29.48]
+[00:28.32]早就回到老家里
+[00:28.32]jikka ni kae ri masu
+[00:29.48]啊
 [00:29.99]ああ 未知なる世界と目があったよ
 [00:29.99]
-[00:29.99]aa miti naru sekai to me ga axtu ta yo
-[00:35.48]微笑んで 手招きしてるの
-[00:35.48]
-[00:35.48]hohoe n de temane ki si teru no
+[00:29.99]aa michi naru sekai to me ga a tta yo
+[00:35.48]微笑んで
+[00:35.48]我正微笑着
+[00:35.48]hohoe n de
+[00:00.00]手招きしてるの
+[00:00.00]挥舞小手迎接它
+[00:00.00]temane ki si teru no
 [00:40.83]
 [00:42.22]ねえ こっちの水は
-[00:42.22]
-[00:42.22]nee kotti no mizu ha
+[00:42.22]快看看啊 这里的水
+[00:42.22]nee kotti no miju ha
 [00:45.76]スウィーツパラダイス
-[00:45.76]
+[00:45.76]是糖果的乐园
 [00:45.76]suwhi-tu paradaisu
 [00:48.24]おしゃれ メイク ヘアアレンジ
-[00:48.24]
-[00:48.24]osyare meiku hea arenzi
+[00:48.24]穿新衣 化化妆 做个发型
+[00:48.24]osyare meiku hea arenji
 [00:51.45]乙女の園で ダンスした
-[00:51.45]
+[00:51.45]在少女的花园中 优雅起舞
 [00:51.45]otome no en de dansu si ta
 [00:56.37]
 [00:57.27]あれ わたし (who) 誰 (are) オレoleお？ (it's me)
@@ -75,7 +77,7 @@
 [01:07.06]sonomama mebi to ke te yuku sinsou sinri
 [01:10.40]目覚め たまえ 眠れるアイツ
 [01:10.40]
-[01:10.40]meza me tamae nemu reru aitu
+[01:10.40]meja me tamae nemu reru aitu
 [01:13.39]いくとこまで いってみようか
 [01:13.39]
 [01:13.39]iku toko made ixtu te miyo u ka
@@ -96,7 +98,7 @@
 [01:22.75]ari nashi nashi ari
 [01:25.85]自我 字が 崩壊
 [01:25.85]
-[01:25.85]ziga ziga houkai
+[01:25.85]jiga jiga houkai
 [01:28.96]おさんぽ調査団 瀕死でおかえり
 [01:28.96]
 [01:28.96]osanpo tyousa dan hinsi de okaeri
@@ -111,7 +113,7 @@
 [01:38.18]ruirui sisitei faito ippatsu
 [01:41.05]ああ マジカル
 [01:41.05]
-[01:41.05]aa mazikaru
+[01:41.05]aa majikaru
 [01:43.59]ウルトラスーパーミラクル
 [01:43.59]
 [01:43.59]urutora su-pa- mirakuru
@@ -127,7 +129,7 @@
 [01:57.00]dori-mu wanda-rando
 [01:59.46]地道 努力 コツコツ
 [01:59.46]
-[01:59.46]zimiti doryoku kotukotu
+[01:59.46]jimiti doryoku kotukotu
 [02:02.61]正論マンが パンチした
 [02:02.61]
 [02:02.61]seiron man ga panti si ta
@@ -152,17 +154,17 @@
 [02:21.57]hurui tamae uti naru kemono
 [02:24.63]自分自身を知るための 決闘だ
 [02:24.63]
-[02:24.63]zibun zisin wo si ru tame no kettou da
+[02:24.63]jibun jisin wo si ru tame no kettou da
 [02:28.22]
 [02:40.11]白か黒かで決めた（オセロ）
 [02:40.11]
 [02:40.11]siro ka guro ka de ki me ta (osero)
 [02:43.18]0か100しかないの?（極論）
 [02:43.18]
-[02:43.18]zero ka hyaku sika nai no (kyokuron)
+[02:43.18]jero ka hyaku sika nai no (kyokuron)
 [02:46.39]生きづらい俗世だね（娑婆ばい）
 [02:46.39]
-[02:46.39]i ki zurai zokuse da ne (syaba bai)
+[02:46.39]i ki jurai jokuse da ne (syaba bai)
 [02:49.56]神様 仏様 この私目にお導きを
 [02:49.56]
 [02:49.56]kamisama hotokesama kono watasime ni o mitibi ki wo
@@ -175,7 +177,7 @@
 [02:59.82]aidenthithi yo me wo sa mase
 [03:03.23]知りたい I どこへ行く自意識
 [03:03.23]
-[03:03.23]si ri tai I doko he i ku ziisiki
+[03:03.23]si ri tai I doko he i ku jiisiki
 [03:06.43]ゆりかごゆられて どんぶらこっこ
 [03:06.43]
 [03:06.43]yurikago yurare te donburako kko
@@ -199,19 +201,19 @@
 [03:21.68]sonomama mebi to ke te yuku sinsou sinri
 [03:25.01]目覚め たまえ 眠れるアイツ
 [03:25.01]
-[03:25.01]meza me tamae nemu reru aitu
+[03:25.01]meja me tamae nemu reru aitu
 [03:28.09]自分自身を 知るための旅路
 [03:28.09]
-[03:28.09]zibun zisin wo si ru tame no tabizi
+[03:28.09]jibun jisin wo si ru tame no tabiji
 [03:31.25]ひとりのようで
 [03:31.25]
 [03:31.25]hitori no you de
 [03:32.38]ひとりじゃなかった
 [03:32.38]
-[03:32.38]hitori zya nakaxtu ta
+[03:32.38]hitori jya nakaxtu ta
 [03:34.36]観測上で成り立つ 存在X
 [03:34.36]
-[03:34.36]kansoku zyou de na ri ta tu sonzai eikusi
+[03:34.36]kansoku jyou de na ri ta tu sonjai eikusi
 [03:39.08]研究対象です
 [03:39.08]
 [03:39.08]kenkyuu taisyou desu
@@ -229,4 +231,4 @@
 [03:46.79]ari nashi nashi ari
 [03:49.82]自我 字が アイデン貞貞は崩壊中
 [03:49.82]
-[03:49.82]ziga ziga aiden teitei ha houkai tyuu
+[03:49.82]jiga jiga aiden teitei ha houkai tyuu
