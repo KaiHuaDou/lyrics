@@ -26,17 +26,17 @@
 + 奈落之花
 + 是冒险对吧对吧？
 + Abnormalize
++ Duvet
 + Hacking to the Gate
 + Only My Railgun
 
 ### 已翻译
 
-+ Sis puella magica
-+ Last Game
-+ I believe what you said
-+ Fatima
 + 謡I - Making of Cyborg
-+ 残酷天使的行动纲领
++ Fatima
++ I believe what you said
++ Last Game
++ Sis puella magica
 
 ### 翻译中
 
@@ -50,10 +50,14 @@
 
 ### 已计划
 
++ 残酷天使的行动纲领（打回重做）
 + 来吧，甜蜜的死亡
++ 恋之实玖瑠传说
++ 拿去吧！水手服
 + 停下吧
 + 想·要·成·为·好·朋·友
 + Inner Universe
 + LEVEL5 -Judgelight-
 + sister's noise
 + Super Driver
++ unravel
