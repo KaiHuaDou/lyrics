@@ -4,6 +4,9 @@
 *.m4a
 *.mid
 
+# Videos
+*.mp4
+
 # Temp File
 *.tmp
 *.edit

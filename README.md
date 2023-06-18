@@ -27,13 +27,13 @@
 + 是冒险对吧对吧？
 + Abnormalize
 + Duvet
-+ Hacking to the Gate
 + Only My Railgun
 
 ### 已翻译
 
 + 謡I - Making of Cyborg
 + Fatima
++ Hacking to the Gate（重做罗马音）
 + I believe what you said
 + Last Game
 + Sis puella magica
