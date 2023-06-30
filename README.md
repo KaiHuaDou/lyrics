@@ -29,11 +29,10 @@
 + Duvet
 + Only My Railgun
 
-### 已翻译
+### 待配时间轴
 
 + 謡I - Making of Cyborg
 + Fatima
-+ Hacking to the Gate（重做罗马音）
 + I believe what you said
 + Last Game
 + Sis puella magica
@@ -41,23 +40,14 @@
 ### 翻译中
 
 + 晴天好心情
++ 拿去吧！水手服
 + 自我认同崩坏中（自我同一性崩坏中）
     + 此处更改曲名翻译
-+ Magia
-    + TODO: 校正机翻罗马音
 + Rise
 + Hyadain的单单单☆单相思-C
-
-### 已计划
-
-+ 残酷天使的行动纲领（打回重做）
-+ 来吧，甜蜜的死亡
-+ 恋之实玖瑠传说
-+ 拿去吧！水手服
-+ 停下吧
-+ 想·要·成·为·好·朋·友
-+ Inner Universe
-+ LEVEL5 -Judgelight-
-+ sister's noise
-+ Super Driver
 + unravel
+
+### 待翻译或罗马音
+
++ Magia
++ Hacking to the Gate

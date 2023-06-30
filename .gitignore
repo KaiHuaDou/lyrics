@@ -10,6 +10,7 @@
 # Temp File
 *.tmp
 *.edit
+*.html
 *.re.lrc
 
 # Visual Studio Code Ignores
