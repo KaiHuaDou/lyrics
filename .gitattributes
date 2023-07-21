@@ -1,2 +1,2 @@
-*.lrc text eol=lf linguist-detectable
-*.md text eol=lf linguist-detectable
+*.lrc text eol=lf linguist-language=SubRip-Text
+*.md text eol=lf linguist-language=Markdown

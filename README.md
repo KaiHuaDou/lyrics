@@ -23,11 +23,13 @@
 
 ### 已完成
 
++ 对不起，我当不了好孩子
 + 奈落之花
 + 是冒险对吧对吧？
 + Abnormalize
 + Duvet
 + Hacking to the Gate
++ Last Game
 + Only My Railgun
 
 ### 待配时间轴
@@ -35,7 +37,6 @@
 + 謡I - Making of Cyborg
 + Fatima
 + I believe what you said
-+ Last Game
 + Sis puella magica
 
 ### 翻译中
