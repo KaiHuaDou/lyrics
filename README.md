@@ -26,6 +26,7 @@
 + 对不起，我当不了好孩子
 + 奈落之花
 + 是冒险对吧对吧？
++ 宇宙战舰大和号
 + Abnormalize
 + Duvet
 + Hacking to the Gate
@@ -42,6 +43,7 @@
 ### 翻译中
 
 + 晴天好心情
++ Adventure Right? Right?
 + 拿去吧！水手服
 + 自我认同崩坏中（自我同一性崩坏中）
     + 此处更改曲名翻译
